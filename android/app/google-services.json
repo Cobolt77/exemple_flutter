@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "460229417281",
+    "firebase_url": "https://arvoitus-5c214.firebaseio.com",
+    "project_id": "arvoitus-5c214",
+    "storage_bucket": "arvoitus-5c214.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460229417281:android:6138998671e0a6a45de9c0",
+        "android_client_info": {
+          "package_name": "dev.cinetic.novae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460229417281-tf97qllpr9p6ves2ogodfrmsbe584fhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZAjQegychpWj3dOEN0ysuNNh9vWjZ4iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460229417281-tf97qllpr9p6ves2ogodfrmsbe584fhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
